@@ -1,0 +1,15 @@
+.carousel-indicators {
+    list-style: none;
+    padding-left: 0;
+}
+
+.conteudo-resenha {
+    width: 100%;
+    /* Define a altura de acordo com a altura da janela de visualização do navegador */
+    height: 150vh;
+    border: none;
+}
+
+.icones a {
+    color: white;
+}
